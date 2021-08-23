@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire",
+        "state": {
+          "branch": null,
+          "revision": "f96b619bcb2383b43d898402283924b80e2c4bae",
+          "version": "5.4.3"
+        }
+      },
+      {
+        "package": "AlamofireImage",
+        "repositoryURL": "https://github.com/Alamofire/AlamofireImage",
+        "state": {
+          "branch": null,
+          "revision": "98cbb00ce0ec5fc8e52a5b50a6bfc08d3e5aee10",
+          "version": "4.2.0"
+        }
+      },
+      {
+        "package": "Cache",
+        "repositoryURL": "https://github.com/hyperoslo/Cache",
+        "state": {
+          "branch": "master",
+          "revision": "520b1afd229e25051878c65ce1e780628ea43b4d",
+          "version": null
+        }
+      },
+      {
+        "package": "Imaginary",
+        "repositoryURL": "https://github.com/hyperoslo/Imaginary",
+        "state": {
+          "branch": "master",
+          "revision": "5da646269754856f60ae463652858f64dfe4d4e5",
+          "version": null
+        }
+      },
+      {
+        "package": "Lightbox",
+        "repositoryURL": "https://github.com/hyperoslo/Lightbox",
+        "state": {
+          "branch": "master",
+          "revision": "a07de07adbdd89860af2abfd3435d99f09bd7bff",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
